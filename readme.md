@@ -6,4 +6,4 @@
 	* set default_port to " 2516"
 * you can also replace "192.168.1.101" to your proxy IP
 	* set default_IP to "192.168.1.101"	
-* applescript reference <https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference>
+* applescript reference <https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html>
